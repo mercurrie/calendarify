@@ -1,0 +1,19 @@
+# Flask
+Flask==2.3.3
+
+# Azure SDK for Python
+azure-core
+azure-identity
+azure-cosmos>=4.0.0b5
+azure-eventhub
+azure-keyvault-certificates
+azure-keyvault-keys
+azure-keyvault-secrets
+azure-storage-blob
+
+# Additional packages you might need for Flask and Azure integration
+Flask-Session==0.4.0
+Flask-OAuthlib==0.9.6
+
+# Azure SQL:
+pyodbc
