@@ -3,7 +3,7 @@
 import os
 from flask import Flask, render_template
 
-
+# flask app
 app = Flask(__name__)
 
 @app.route('/')
